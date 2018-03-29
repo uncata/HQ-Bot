@@ -19,6 +19,18 @@ Add the following line to the end of bot.py:
 guessAnswer('examplePath/example.png')
 ```
 
+Image:
+![Question 1](/images/Q1.png)
+
+Console Output:
+```
+['Trees often grow from what?', 'AstroTu rf', 'Seeds', 'Peanut butter']
+answer is probably Seeds
+--- 3.190742254257202 seconds ---
+```
+
+## Note
+HQ-Bot is ~90% accurate since it uses google search to predict the best answer. 
 ## LICENSE
 
 [MIT License](LICENSE)
