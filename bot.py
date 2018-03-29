@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from PIL import Image, ImageEnhance
 import lxml
-import nltk
 import pytesseract
 import re
 import requests
