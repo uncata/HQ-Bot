@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from PIL import Image, ImageEnhance
 import lxml
 import pytesseract
-import re
 import requests
 import time
 
