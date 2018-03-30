@@ -8,7 +8,6 @@ bs4
 PIL
 lxml
 pytesseract
-re
 requests
 time
 ```
