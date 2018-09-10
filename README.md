@@ -32,4 +32,4 @@ answer is probably Seeds
 HQ-Bot is ~90% accurate since it uses google search to predict the best answer. Accuracy may vary with more questions, as HQ-Bot was only tested on 21 questions. 
 ## LICENSE
 
-[MIT License](LICENSE)
+[GNU License](LICENSE)
